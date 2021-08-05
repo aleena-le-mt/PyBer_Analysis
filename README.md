@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Project Overview
-You have been assigned to analyze all rideshare data from January to early May of 2019 to create a visualization for PyBer in order to help improve the access to ride-sharing services & determine affordability for underserved neighborhoods.
+You have been assigned to analyze all rideshare data from January to early May of 2019 to create a visualization for PyBer in order to help improve the access to ride-sharing services & determine affordability for underserved neighborhoods. 
 
 1. Rural Cities have an average of around 40 fare per ride & an average of approximately 5.7 fare per driver.
 2. Suburban Cities have an average of around 436 fare per ride & an average of approximately 3.3 fare per driver.
