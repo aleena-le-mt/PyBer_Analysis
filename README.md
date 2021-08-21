@@ -6,8 +6,7 @@ You have been assigned to analyze all rideshare data from January to early May o
 1. Rural Cities have an average of around 34.62 fare per ride & an average of approximately 8.06 fare per driver.
 2. Suburban Cities have an average of around 30.97 fare per ride & an average of approximately 2.26 fare per driver.
 3. Urban Cities have an average of around 24.53 fare per ride & an average of approximately 0.67 fare per driver.
-4. The city type with the most fare:
-      -Rural cities
+4. The city type with the most fare: Rural cities
 
 ## Resources
 - Data Source: city_data.csv
