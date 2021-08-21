@@ -16,29 +16,29 @@ You have been assigned to analyze all rideshare data from January to early May o
 - Software: Jupyter Notebook
 
 ## Summary
-The Summary DataFrame shows that:
-- The city types are:
-      - Rural
-      - Suburban
-      - Urban
-- The city results:
-      * Rural Cities
+### The Summary DataFrame shows that:
+#### The city types are:
+- Rural
+- Suburban
+- Urban
+### The city results:
+#### Rural Cities
         - 125 Total Rides
         - 537 Total Drivers
         - An average of around 34.62 fare per ride
         - An average of approximately 8.06 fare per driver.
-      * Suburban Cities
+#### Suburban Cities
         - 625 Total Rides
         - 8570 Total Drivers
         - An average of around 30.97 fare per ride
         - An average of approximately 2.26 fare per driver.
-       * Urban Cities
+#### Urban Cities
         - 1625 Total Rides
         - 59602 Total Drivers
         - An average of around 24.53 fare per ride 
         - An average of approximately 0.67 fare per driver.
--The city type with the most fare on average for rides and drivers:
-      -Rural cities, with 34.62 on average fare per ride and 8.06 on average fare per driver.
+#### The city type with the most fare on average for rides and drivers:
+    Rural cities, with 34.62 on average fare per ride and 8.06 on average fare per driver.
       
 ## Challenge Overview
 According to the dataframe, we have data on the total rides, total drivers, average fare per ride, and average fare per driver. It is said that in rural cities, the total rides is 125, the total drivers is 537, the average fare per ride is approximately 34.62, and the average fare per driver is around 8.06.
